@@ -1,4 +1,4 @@
-package list
+package hashmap
 
 func canConstruct(ransomNote string, magazine string) bool {
 	a := make(map[byte]int)

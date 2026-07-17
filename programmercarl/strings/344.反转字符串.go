@@ -1,4 +1,4 @@
-package list
+package strings
 
 func reverseString(s []byte) {
 	leftP := 0

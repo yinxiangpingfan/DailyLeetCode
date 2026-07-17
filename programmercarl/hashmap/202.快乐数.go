@@ -1,4 +1,4 @@
-package list
+package hashmap
 
 func isHappy(n int) bool {
 	a := make(map[int]interface{})

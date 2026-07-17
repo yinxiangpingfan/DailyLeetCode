@@ -1,4 +1,4 @@
-package list
+package hashmap
 
 func isAnagram(s string, t string) bool {
 	lens := len(s)
